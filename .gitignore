@@ -242,8 +242,9 @@ __marimo__/
 *.listing
 *.lol
 
-# LaTeX source files (exclude all .tex files)
+# LaTeX source files (exclude all .tex files except assignment1.tex)
 *.tex
+!assignment1.tex
 
 # Exclude all PDFs except assignment1.pdf
 *.pdf

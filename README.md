@@ -29,4 +29,4 @@ Check the "Actions" tab to see your submission status!
 
 ## Deadline
 
-Monday 6th October at 12 noon
+Monday 12th October at 12 noon
