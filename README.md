@@ -18,14 +18,8 @@ Create separate Python files for each exercise:
 - `exercise4.py` - Pi estimation
 - `exercise5.py` - Caesar cipher breaker
 
-## Automatic Checking
-
-This repository includes automatic checking that will verify:
-- ✅ All required Python files are present
-- ✅ Basic syntax checking
-- ✅ Submission summary
-
-Check the "Actions" tab to see your submission status!
+Upload your completed Python files directly to Moodle:
+👉 [Moodle Assignment 1 Submission Point](https://moodle.ucl.ac.uk/mod/assign/view.php?id=9108695)
 
 ## Deadline
 
